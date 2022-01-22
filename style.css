@@ -1,0 +1,19 @@
+.AddP{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.AddP .Add{
+    margin-top: 1.5em;
+}
+
+.footer_row{
+    height: 11vh;
+    width: 100vw;
+    position: absolute;
+}
+
+.foot_bot{
+    position: relative;
+    top: 11vh;
+}
